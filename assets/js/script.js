@@ -1,4 +1,4 @@
-let number = Math.floor(Math.random() * 1001);
+let number = Math.floor(Math.random() * 1000);
 let compte = 25;
 let essai = document.querySelector('#count');
 let test = document.querySelector('#test');
