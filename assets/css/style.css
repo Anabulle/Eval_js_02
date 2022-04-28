@@ -1,0 +1,57 @@
+    #reponse {
+        font-size: 2rem;
+    }
+    
+    h1 {
+        font-size: 3rem;
+        text-align: center;
+        color: #480473;
+        text-shadow: 0 6px 1px rgba(255, 251, 0, 0.8);
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+        text-align: center;
+        color: #480473;
+        text-shadow: 0 6px 1px rgba(255, 251, 0, 0.8);
+    }
+    
+    main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: rgba(255, 255, 255, 0.50);
+        width: 900px;
+        margin: auto;
+        height: 550px;
+        justify-content: center;
+        border-radius: 10px;
+        border: 3px dashed #a855db;
+    }
+    
+    div {
+        display: flex;
+    }
+    
+    body {
+        background-image: url('../img/game-background-4956017_960_720.jpg');
+        background-size: cover;
+        margin-top: 2rem;
+    }
+    
+    p {
+        color: #480473;
+        padding: 0px 50px 0px 50px;
+        text-align: center;
+    }
+    
+    button,
+    input {
+        border-radius: 75px;
+        background: #e0e0e0;
+        box-shadow: 20px 20px 40px #8d8d8d;
+        padding: 10px;
+        margin-left: 10px;
+        font-size: 1.3rem;
+        color: #480473;
+    }
