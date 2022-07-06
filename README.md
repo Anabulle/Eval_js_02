@@ -1,2 +1,2 @@
-# Eval_js_02
+# high_low_game
 High-low game
